@@ -8,7 +8,7 @@ The purpose of this project was to analyze PyBer ride sharing data and summarize
 ### Ride Sharing Data Summary
 Below you'll find the summary dataframe of the ride sharing data organized by city type.
 
-![PyBer_Summary_2](Analysis/PyBer_Summary_2.png)
+![PyBer_Summary_2](analysis/PyBer_Summary_2.png)
 
 The data shows the total rides, total drivers, and total fares by city type along with the average fare per ride and the average fare per driver. Based on this analysis, the conclusion is that:
 - Rides in Urban cities acount for 68.4% of all rides, compared to only 5.3% for Rural cities.
@@ -21,7 +21,7 @@ The data shows the total rides, total drivers, and total fares by city type alon
 ### Total Fares by City Type Over Time
 Below you'll find the summary graph of the ride sharing data organized by city type for weeks between Jan - April 2019.
 
-![PyBer_fare_summary](Analysis/PyBer_fare_summary.png)
+![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
 
 Here, you'll see the fluctations in total fares by city type per week. This analysis shows that:
 - Urban cities consitently have higher fare totals than suburban and rural cities week over week.
